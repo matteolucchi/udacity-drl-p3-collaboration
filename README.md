@@ -1,4 +1,4 @@
-# Project 2: Continuous Control - Udacity DRL Nanodegree
+# Project 3: Collaboration and Competition - Udacity DRL Nanodegree
 Implementation of a Deep Reinforcement Learning agent to solve the Unity Tennis environment.
 
 This repository contains all the material relative to the implementation of the Project 3 of the [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) program.
