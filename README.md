@@ -7,8 +7,7 @@ This repository contains all the material relative to the implementation of the 
 ## The Environment
 The environment consists of two agents that control tennis rackets. The goal of each agent is to keep the ball in play.
 
-<!--  Insert GIF of env-->
-<!-- ![tennis](url) -->
+![tennis](https://user-images.githubusercontent.com/36470989/63344602-18f53080-c351-11e9-99bb-630245001acc.gif) 
 
 The following description is for each of the two agents
 ### State Space
